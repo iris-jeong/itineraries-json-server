@@ -3,12 +3,28 @@
     {
       "id": "0",
       "title": "Post 0",
-      "body": "Body 0"
+      "body": "Body 0",
+      "category": "1"
     },
     {
       "id": "1",
       "title": "Post 1",
-      "body": "Body 1"
+      "body": "Body 1",
+      "category": "0"
+    }
+  ],
+  "categories": [
+    {
+      "id": "0",
+      "name": "Tech"
+    },
+    {
+      "id": "1",
+      "name": "Financial Independence"
+    },
+    {
+      "id": "2",
+      "name": "Retirement"
     }
   ]
 }
