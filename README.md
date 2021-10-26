@@ -17,8 +17,8 @@ Here are a few GET endpoints:
 
 - Fetching a collection of post resources: http://localhost:4000/api/posts
 - Fetching a single post resource: http://localhost:4000/api/posts/0
-- Fetching a collection of post resources with related data: http://localhost:4000/api/posts?\_embed=comments&\_expand=category&\_expand=author
-- Fetching a collection of post resources sorted by the post title in descending order: http://localhost:4000/api/posts?\_sort=title&\_order=desc
+- Fetching a collection of post resources with related data: http://localhost:4000/api/posts?_embed=comments&_expand=category&_expand=author
+- Fetching a collection of post resources sorted by the post title in descending order: http://localhost:4000/api/posts?_sort=title&_order=desc
 
 Check out the [JSON Server README](https://github.com/typicode/json-server#table-of-contents) to see all the ways you can query for data.
 
