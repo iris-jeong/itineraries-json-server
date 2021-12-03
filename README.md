@@ -1,11 +1,5 @@
 # JSON Server Posts API
 
-First, install [Nodemon](https://nodemon.io/):
-
-```
-npm install -g nodemon
-```
-
 To run this project locally:
 
 ```
