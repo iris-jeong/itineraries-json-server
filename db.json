@@ -4,29 +4,31 @@
       "id": "0",
       "title": "Post 0",
       "body": "Body 0",
-      "categoryId": "1",
-      "authorId": "0"
+      "userId": "0"
     },
     {
       "id": "1",
       "title": "Post 1",
       "body": "Body 1",
-      "categoryId": "0",
-      "authorId": "0"
-    }
-  ],
-  "categories": [
-    {
-      "id": "0",
-      "name": "Tech"
-    },
-    {
-      "id": "1",
-      "name": "Financial Independence"
+      "userId": "1"
     },
     {
       "id": "2",
-      "name": "Retirement"
+      "title": "Post 2",
+      "body": "Body 2",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "body": "Body 3",
+      "userId": "1"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "body": "Body 4",
+      "userId": "0"
     }
   ],
   "comments": [
@@ -51,10 +53,14 @@
       "postId": "0"
     }
   ],
-  "authors": [
+  "users": [
     {
       "id": "0",
       "name": "David Tang"
+    },
+    {
+      "id": "1",
+      "name": "Patrick Dent"
     }
   ]
 }
