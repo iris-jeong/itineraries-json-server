@@ -16,6 +16,6 @@ Here are a few GET endpoints:
 
 Check out the [JSON Server README](https://github.com/typicode/json-server#table-of-contents) to see all the ways you can query for data.
 
-JSON Server also provides all of the standard [REST API endpoints (GET, POST, PUT, and DELETE)](https://github.com/typicode/json-server#plural-routes). We used these endpoints in class when we were building [the blog application](https://codesandbox.io/s/week-7-prep-sm3f2?file=/src/App.js).
+JSON Server also provides all of the standard [REST API endpoints (GET, POST, PUT, PATCH, and DELETE)](https://github.com/typicode/json-server#plural-routes). We used these endpoints in class.
 
 This project has been deployed to Heroku. Replace http://localhost:4000 in the URLs above with https://json-server-posts-api.herokuapp.com.
