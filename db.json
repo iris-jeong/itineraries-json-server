@@ -41,12 +41,12 @@
 			"id": "0",
 			"name": "Big Apple Foodie-venture",
 			"city": "Brooklyn",
-			"state": "New York",
+			"state_province": "New York",
 			"country": "United States",
 			"start_date": "2017-04-03",
 			"end_date": "2017-04-04",
 			"type": "Solo",
-			"image": "images/ny-foodie.jpeg",
+			"image": "./images/nyfoodie.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -98,14 +98,14 @@
 		},
 		{
 			"id": "1",
-			"name": "Big Apple Foodie-venture",
-			"city": "Manhattan",
-			"state": "New York",
-			"country": "United States",
-			"start_date": "2018-06-30",
-			"end_date": "2018-07-04",
+			"name": "Bali Outdoor Adventures",
+			"city": "Ubud",
+			"state_province": "Bali",
+			"country": "Indonesia",
+			"start_date": "2020-08-10",
+			"end_date": "2020-08-17",
 			"type": "Family",
-			"image": "images/ny-foodie.jpeg",
+			"image": "./images/bali.jpeg",
 			"days": [
 				{
 					"day": "1",
