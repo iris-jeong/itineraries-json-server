@@ -151,6 +151,51 @@
 							"end_time": "21:00"
 						}
 					]
+				},
+				{
+					"day": "2",
+					"activities": [
+						{
+							"id": "0",
+							"activity": "Flight from LAX to LGA",
+							"address": null,
+							"description": "Took the red eye from Los Angeles to New York.",
+							"start_time": "21:40",
+							"end_time": "9:04"
+						},
+						{
+							"id": "1",
+							"activity": "Hotel Check In",
+							"address": "50 Central Park S, New York, NY 10019",
+							"description": "Checked into the Ritz-Carlton New York.",
+							"start_time": "10:30",
+							"end_time": "12:00"
+						},
+						{
+							"id": "2",
+							"activity": "Lunch at Marea",
+							"address": "240 Central Park S, New York, NY 10019",
+							"description": "Ate lunch at Marea which serves a high-end Italian seafood and housemade pastas in a chic Central Park South setting! For my starter, I ordered the Tartare Di Tonno (yellowfin tuna with pear, pomegranate, and quail egg yolk). Then for my main dish, I ordered the Pansotti (a ricotta ravioli, with basil-arugula pesto, topped with pine nuts). Everything was delicious!",
+							"start_time": "14:00",
+							"end_time": "16:00"
+						},
+						{
+							"id": "3",
+							"activity": "Museum of Ice Cream",
+							"address": "558 Broadway, New York, NY 10012",
+							"description": "I rediscovered the kid in me at the Museum of Ice Cream. It definitely energizes the senses to reimagine the way we experience and love ice cream!",
+							"start_time": "17:00",
+							"end_time": "19:00"
+						},
+						{
+							"id": "4",
+							"activity": "Dinner at Balthazar",
+							"address": "80 Spring St, New York, NY 10012",
+							"description": "I had dinner at Balthazar, a bustling, romantic brasserie that serves traditional French fare! I started off with the warm goat cheese and caramelized onion tart. I followed that with the grilled chicken paillard. Amazing food!",
+							"start_time": "19:30",
+							"end_time": "21:00"
+						}
+					]
 				}
 			],
 			"userId": "1"
