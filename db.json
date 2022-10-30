@@ -1,66 +1,176 @@
 {
-  "posts": [
-    {
-      "id": "0",
-      "title": "Post 0",
-      "body": "Body 0",
-      "userId": "0"
-    },
-    {
-      "id": "1",
-      "title": "Post 1",
-      "body": "Body 1",
-      "userId": "1"
-    },
-    {
-      "id": "2",
-      "title": "Post 2",
-      "body": "Body 2",
-      "userId": "1"
-    },
-    {
-      "id": "3",
-      "title": "Post 3",
-      "body": "Body 3",
-      "userId": "1"
-    },
-    {
-      "id": "4",
-      "title": "Post 4",
-      "body": "Body 4",
-      "userId": "0"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "users": [
-    {
-      "id": "0",
-      "name": "David Tang"
-    },
-    {
-      "id": "1",
-      "name": "Patrick Dent"
-    }
-  ]
+	"users": [
+		{
+			"id": "0",
+			"username": "itp404",
+			"first_name": "ITP",
+			"last_name": "404",
+			"password": "itp404"
+		},
+		{
+			"id": "1",
+			"username": "travel_carley88",
+			"first_name": "Carley",
+			"last_name": "Cadell",
+			"password": "itp404"
+		},
+		{
+			"id": "2",
+			"username": "waldowanders",
+			"first_name": "Waldo",
+			"last_name": "Madden",
+			"password": "itp404"
+		},
+		{
+			"id": "3",
+			"username": "worldalpinetreks",
+			"first_name": "Chance",
+			"last_name": "Laurier",
+			"password": "itp404"
+		},
+		{
+			"id": "4",
+			"username": "wander1902",
+			"first_name": "Mary",
+			"last_name": "Poppins",
+			"password": "itp404"
+		}
+	],
+	"itineraries": [
+		{
+			"id": "0",
+			"city": "Brooklyn",
+			"state": "New York",
+			"country": "United States",
+			"start_date": "2017-04-03",
+			"end_date": "2017-04-04",
+			"days": [
+				{
+					"day": "1",
+					"activities": [
+						{
+							"id": "0",
+							"activity": "Flight from LAX to LGA",
+							"address": null,
+							"description": "Took the red eye from Los Angeles to New York.",
+							"start_time": "21:40",
+							"end_time": "9:04"
+						},
+						{
+							"id": "1",
+							"activity": "Hotel Check In",
+							"address": "50 Central Park S, New York, NY 10019",
+							"description": "Checked into the Ritz-Carlton New York.",
+							"start_time": "10:30",
+							"end_time": "12:00"
+						},
+						{
+							"id": "2",
+							"activity": "Lunch at Marea",
+							"address": "240 Central Park S, New York, NY 10019",
+							"description": "Ate lunch at Marea which serves a high-end Italian seafood and housemade pastas in a chic Central Park South setting! For my starter, I ordered the Tartare Di Tonno (yellowfin tuna with pear, pomegranate, and quail egg yolk). Then for my main dish, I ordered the Pansotti (a ricotta ravioli, with basil-arugula pesto, topped with pine nuts). Everything was delicious!",
+							"start_time": "14:00",
+							"end_time": "16:00"
+						},
+						{
+							"id": "3",
+							"activity": "Museum of Ice Cream",
+							"address": "558 Broadway, New York, NY 10012",
+							"description": "I rediscovered the kid in me at the Museum of Ice Cream. It definitely energizes the senses to reimagine the way we experience and love ice cream!",
+							"start_time": "17:00",
+							"end_time": "19:00"
+						},
+						{
+							"id": "4",
+							"activity": "Dinner at Balthazar",
+							"address": "80 Spring St, New York, NY 10012",
+							"description": "I had dinner at Balthazar, a bustling, romantic brasserie that serves traditional French fare! I started off with the warm goat cheese and caramelized onion tart. I followed that with the grilled chicken paillard. Amazing food!",
+							"start_time": "19:30",
+							"end_time": "21:00"
+						}
+					]
+				}
+			],
+			"userId": "0"
+		},
+		{
+			"id": "1",
+			"city": "Manhattan",
+			"state": "New York",
+			"country": "United States",
+			"start_date": "2018-06-30",
+			"end_date": "2018-07-04",
+			"days": [
+				{
+					"day": "1",
+					"activities": [
+						{
+							"id": "0",
+							"activity": "Flight from LAX to LGA",
+							"address": null,
+							"description": "Took the red eye from Los Angeles to New York.",
+							"start_time": "21:40",
+							"end_time": "9:04"
+						},
+						{
+							"id": "1",
+							"activity": "Hotel Check In",
+							"address": "50 Central Park S, New York, NY 10019",
+							"description": "Checked into the Ritz-Carlton New York.",
+							"start_time": "10:30",
+							"end_time": "12:00"
+						},
+						{
+							"id": "2",
+							"activity": "Lunch at Marea",
+							"address": "240 Central Park S, New York, NY 10019",
+							"description": "Ate lunch at Marea which serves a high-end Italian seafood and housemade pastas in a chic Central Park South setting! For my starter, I ordered the Tartare Di Tonno (yellowfin tuna with pear, pomegranate, and quail egg yolk). Then for my main dish, I ordered the Pansotti (a ricotta ravioli, with basil-arugula pesto, topped with pine nuts). Everything was delicious!",
+							"start_time": "14:00",
+							"end_time": "16:00"
+						},
+						{
+							"id": "3",
+							"activity": "Museum of Ice Cream",
+							"address": "558 Broadway, New York, NY 10012",
+							"description": "I rediscovered the kid in me at the Museum of Ice Cream. It definitely energizes the senses to reimagine the way we experience and love ice cream!",
+							"start_time": "17:00",
+							"end_time": "19:00"
+						},
+						{
+							"id": "4",
+							"activity": "Dinner at Balthazar",
+							"address": "80 Spring St, New York, NY 10012",
+							"description": "I had dinner at Balthazar, a bustling, romantic brasserie that serves traditional French fare! I started off with the warm goat cheese and caramelized onion tart. I followed that with the grilled chicken paillard. Amazing food!",
+							"start_time": "19:30",
+							"end_time": "21:00"
+						}
+					]
+				}
+			],
+			"userId": "1"
+		}
+	],
+	"comments": [
+		{
+			"id": "0",
+			"date": "2018-05-22",
+			"comment": "The restaurants in your itinerary look amazing!",
+			"itineraryId": "0",
+			"userId": "2"
+		},
+		{
+			"id": "1",
+			"date": "2020-11-28",
+			"comment": "So excited to check out the Museum of Ice Cream now. Thanks for sharing!",
+			"itineraryId": "0",
+			"userId": "4"
+		},
+		{
+			"id": "2",
+			"date": "2021-04-02",
+			"comment": "Thanks for sharing!",
+			"itineraryId": "1",
+			"userId": "0"
+		}
+	]
 }
