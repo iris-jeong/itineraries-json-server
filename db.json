@@ -46,7 +46,7 @@
 			"start_date": "2017-04-03",
 			"end_date": "2017-04-04",
 			"type": "Solo",
-			"image": "./images/nyfoodie.jpeg",
+			"image": "images/nyfoodie.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -105,7 +105,7 @@
 			"start_date": "2020-08-10",
 			"end_date": "2020-08-17",
 			"type": "Family",
-			"image": "./images/bali.jpeg",
+			"image": "images/bali.jpeg",
 			"days": [
 				{
 					"day": "1",
