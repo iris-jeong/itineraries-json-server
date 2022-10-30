@@ -112,6 +112,7 @@
 					"activities": [
 						{
 							"id": "0",
+							"day": "1",
 							"activity": "Flight from LAX to LGA",
 							"address": null,
 							"description": "Took the red eye from Los Angeles to New York.",
@@ -120,6 +121,7 @@
 						},
 						{
 							"id": "1",
+							"day": "1",
 							"activity": "Hotel Check In",
 							"address": "50 Central Park S, New York, NY 10019",
 							"description": "Checked into the Ritz-Carlton New York.",
@@ -128,6 +130,7 @@
 						},
 						{
 							"id": "2",
+							"day": "1",
 							"activity": "Lunch at Marea",
 							"address": "240 Central Park S, New York, NY 10019",
 							"description": "Ate lunch at Marea which serves a high-end Italian seafood and housemade pastas in a chic Central Park South setting! For my starter, I ordered the Tartare Di Tonno (yellowfin tuna with pear, pomegranate, and quail egg yolk). Then for my main dish, I ordered the Pansotti (a ricotta ravioli, with basil-arugula pesto, topped with pine nuts). Everything was delicious!",
@@ -136,6 +139,7 @@
 						},
 						{
 							"id": "3",
+							"day": "1",
 							"activity": "Museum of Ice Cream",
 							"address": "558 Broadway, New York, NY 10012",
 							"description": "I rediscovered the kid in me at the Museum of Ice Cream. It definitely energizes the senses to reimagine the way we experience and love ice cream!",
@@ -144,6 +148,7 @@
 						},
 						{
 							"id": "4",
+							"day": "1",
 							"activity": "Dinner at Balthazar",
 							"address": "80 Spring St, New York, NY 10012",
 							"description": "I had dinner at Balthazar, a bustling, romantic brasserie that serves traditional French fare! I started off with the warm goat cheese and caramelized onion tart. I followed that with the grilled chicken paillard. Amazing food!",
@@ -157,6 +162,7 @@
 					"activities": [
 						{
 							"id": "0",
+							"day": "2",
 							"activity": "Flight from LAX to LGA",
 							"address": null,
 							"description": "Took the red eye from Los Angeles to New York.",
@@ -165,6 +171,7 @@
 						},
 						{
 							"id": "1",
+							"day": "2",
 							"activity": "Hotel Check In",
 							"address": "50 Central Park S, New York, NY 10019",
 							"description": "Checked into the Ritz-Carlton New York.",
@@ -173,6 +180,7 @@
 						},
 						{
 							"id": "2",
+							"day": "2",
 							"activity": "Lunch at Marea",
 							"address": "240 Central Park S, New York, NY 10019",
 							"description": "Ate lunch at Marea which serves a high-end Italian seafood and housemade pastas in a chic Central Park South setting! For my starter, I ordered the Tartare Di Tonno (yellowfin tuna with pear, pomegranate, and quail egg yolk). Then for my main dish, I ordered the Pansotti (a ricotta ravioli, with basil-arugula pesto, topped with pine nuts). Everything was delicious!",
@@ -189,6 +197,7 @@
 						},
 						{
 							"id": "4",
+							"day": "2",
 							"activity": "Dinner at Balthazar",
 							"address": "80 Spring St, New York, NY 10012",
 							"description": "I had dinner at Balthazar, a bustling, romantic brasserie that serves traditional French fare! I started off with the warm goat cheese and caramelized onion tart. I followed that with the grilled chicken paillard. Amazing food!",
