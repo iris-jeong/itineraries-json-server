@@ -39,6 +39,7 @@
 	"itineraries": [
 		{
 			"id": "0",
+			"name": "Big Apple Foodie-venture",
 			"city": "Brooklyn",
 			"state": "New York",
 			"country": "United States",
@@ -96,6 +97,7 @@
 		},
 		{
 			"id": "1",
+			"name": "Big Apple Foodie-venture",
 			"city": "Manhattan",
 			"state": "New York",
 			"country": "United States",
