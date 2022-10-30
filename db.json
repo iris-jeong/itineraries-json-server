@@ -44,6 +44,7 @@
 			"country": "United States",
 			"start_date": "2017-04-03",
 			"end_date": "2017-04-04",
+			"image": "images/ny-foodie.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -100,6 +101,7 @@
 			"country": "United States",
 			"start_date": "2018-06-30",
 			"end_date": "2018-07-04",
+			"image": "images/ny-foodie.jpeg",
 			"days": [
 				{
 					"day": "1",
