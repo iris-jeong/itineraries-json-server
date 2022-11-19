@@ -56,7 +56,7 @@
 			"start_date": "2017-04-03",
 			"end_date": "2017-04-04",
 			"type": "Solo",
-			"image": "images/nyfoodie.jpeg",
+			"image": "ny.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -115,7 +115,7 @@
 			"start_date": "2020-08-10",
 			"end_date": "2020-08-17",
 			"type": "Family",
-			"image": "images/bali.jpeg",
+			"image": "bali.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -225,10 +225,10 @@
 			"city": "Macchu Picchu",
 			"state_province": "Urubamba",
 			"country": "Peru",
-			"start_date": "2017-04-03",
-			"end_date": "2017-04-04",
+			"start_date": "2022-08-29",
+			"end_date": "2022-08-19",
 			"type": "Friends",
-			"image": "images/nyfoodie.jpeg",
+			"image": "peru.jpeg",
 			"days": [
 				{
 					"day": "1",
@@ -284,10 +284,10 @@
 			"city": "Tokyo",
 			"state_province": "Kanto",
 			"country": "Japan",
-			"start_date": "2020-08-10",
-			"end_date": "2020-08-17",
+			"start_date": "2021-02-15",
+			"end_date": "2021-02-19",
 			"type": "Family",
-			"image": "images/bali.jpeg",
+			"image": "tokyo.jpeg",
 			"days": [
 				{
 					"day": "1",
